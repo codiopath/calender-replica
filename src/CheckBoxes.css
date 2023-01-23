@@ -1,0 +1,11 @@
+.theCheckboxContainer{
+    /* padding-right: 2vw; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.theCheck{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
