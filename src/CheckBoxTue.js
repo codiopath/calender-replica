@@ -6,158 +6,158 @@ function ChechBoxTue() {
         <>
         <div className='theCheckboxContainer'>
             <div className='theCheck'>
-        <input type="checkbox" id="tueTime32" name="tueTime32" value="tueTime32"/>
-    <label for="tueTime32"> 8:00 AM</label>
+        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime1"/>
+    <label for="tueTime1"> 8:00 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime33" name="tueTime33" value="tueTime33"/>
-    <label for="tueTime33"> 8:30 AM</label>
+        <input type="checkbox" id="tueTime2" name="tueTime2" value="tueTime2"/>
+    <label for="tueTime2"> 8:30 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime34" name="tueTime34" value="tueTime34"/>
-    <label for="tueTime34"> 9:00 AM</label>
+        <input type="checkbox" id="tueTime3" name="tueTime3" value="tueTime3"/>
+    <label for="tueTime3"> 9:00 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime35" name="tueTime35" value="tueTime35"/>
-    <label for="tueTime35"> 9:30 AM</label>
+        <input type="checkbox" id="tueTime4" name="tueTime4" value="tueTime4"/>
+    <label for="tueTime4"> 9:30 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime36" name="tueTime36" value="tueTime36"/>
-    <label for="tueTime36"> 10:00 AM</label>
+        <input type="checkbox" id="tueTime5" name="tueTime5" value="tueTime5"/>
+    <label for="tueTime5"> 10:00 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime37" name="tueTime37" value="tueTime37"/>
-    <label for="tueTime37"> 10:30 AM</label>
+        <input type="checkbox" id="tueTime6" name="tueTime6" value="tueTime6"/>
+    <label for="tueTime6"> 10:30 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime38" name="tueTime38" value="tueTime38"/>
-    <label for="tueTime38"> 11:00 AM</label>
+        <input type="checkbox" id="tueTime7" name="tueTime7" value="tueTime7"/>
+    <label for="tueTime7"> 11:00 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime39" name="tueTime39" value="tueTime39"/>
-    <label for="tueTime39"> 11:30 AM</label>
+        <input type="checkbox" id="tueTime8" name="tueTime8" value="tueTime8"/>
+    <label for="tueTime8"> 11:30 AM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime40" name="tueTime40" value="tueTime40"/>
-    <label for="tueTime40"> 12:00 PM</label>
+        <input type="checkbox" id="tueTime9" name="tueTime9" value="tueTime9"/>
+    <label for="tueTime9"> 12:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime41" name="tueTime41" value="tueTime41"/>
-    <label for="tueTime41"> 12:30 PM</label>
+        <input type="checkbox" id="tueTime10" name="tueTime10" value="tueTime10"/>
+    <label for="tueTime10"> 12:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime42" name="tueTime42" value="tueTime42"/>
-    <label for="tueTime42"> 1:00 PM</label>
+        <input type="checkbox" id="tueTime11" name="tueTime11" value="tueTime11"/>
+    <label for="tueTime11"> 1:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime43"/>
-    <label for="tueTime1"> 1:30 PM</label>
+        <input type="checkbox" id="tueTime12" name="tueTime12" value="tueTime12"/>
+    <label for="tueTime12"> 1:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime44"/>
-    <label for="tueTime1"> 2:00 PM</label>
+        <input type="checkbox" id="tueTime13" name="tueTime13" value="tueTime13"/>
+    <label for="tueTime13"> 2:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime45"/>
-    <label for="tueTime1"> 2:30 PM</label>
+        <input type="checkbox" id="tueTime14" name="tueTime14" value="tueTime14"/>
+    <label for="tueTime14"> 2:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime46"/>
-    <label for="tueTime1"> 3:00 PM</label>
+        <input type="checkbox" id="tueTime15" name="tueTime15" value="tueTime15"/>
+    <label for="tueTime15"> 3:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime47"/>
-    <label for="tueTime1"> 3:30 PM</label>
+        <input type="checkbox" id="tueTime16" name="tueTime16" value="tueTime16"/>
+    <label for="tueTime16"> 3:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime48"/>
-    <label for="tueTime1"> 4:00 PM</label>
+        <input type="checkbox" id="tueTime17" name="tueTime17" value="tueTime17"/>
+    <label for="tueTime17"> 4:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime49"/>
-    <label for="tueTime1"> 4:30 PM</label>
+        <input type="checkbox" id="tueTime18" name="tueTime18" value="tueTime18"/>
+    <label for="tueTime18"> 4:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime50"/>
-    <label for="tueTime1"> 5:00 PM</label>
+        <input type="checkbox" id="tueTime19" name="tueTime19" value="tueTime19"/>
+    <label for="tueTime19"> 5:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime51"/>
-    <label for="tueTime1"> 5:30 PM</label>
+        <input type="checkbox" id="tueTime20" name="tueTime20" value="tueTime20"/>
+    <label for="tueTime20"> 5:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime52"/>
-    <label for="tueTime1"> 6:00 PM</label>
+        <input type="checkbox" id="tueTime21" name="tueTime21" value="tueTime21"/>
+    <label for="tueTime21"> 6:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime53"/>
-    <label for="tueTime1"> 6:30 PM</label>
+        <input type="checkbox" id="tueTime22" name="tueTime22" value="tueTime22"/>
+    <label for="tueTime22"> 6:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime54"/>
-    <label for="tueTime1"> 7:00 PM</label>
+        <input type="checkbox" id="tueTime23" name="tueTime23" value="tueTime23"/>
+    <label for="tueTime23"> 7:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime55"/>
-    <label for="tueTime1"> 7:30 PM</label>
+        <input type="checkbox" id="tueTime24" name="tueTime24" value="tueTime24"/>
+    <label for="tueTime24"> 7:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime56"/>
-    <label for="tueTime1"> 8:00 PM</label>
+        <input type="checkbox" id="tueTime25" name="tueTime25" value="tueTime25"/>
+    <label for="tueTime25"> 8:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime57"/>
-    <label for="tueTime1"> 8:30 PM</label>
+        <input type="checkbox" id="tueTime26" name="tueTime26" value="tueTime26"/>
+    <label for="tueTime26"> 8:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime58"/>
-    <label for="tueTime1"> 9:00 PM</label>
+        <input type="checkbox" id="tueTime27" name="tueTime27" value="tueTime27"/>
+    <label for="tueTime27"> 9:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime59"/>
-    <label for="tueTime1"> 9:30 PM</label>
+        <input type="checkbox" id="tueTime28" name="tueTime28" value="tueTime28"/>
+    <label for="tueTime28"> 9:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime60"/>
-    <label for="tueTime1"> 10:00 PM</label>
+        <input type="checkbox" id="tueTime29" name="tueTime29" value="tueTime29"/>
+    <label for="tueTime29"> 10:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime61"/>
-    <label for="tueTime1"> 10:30 PM</label>
+        <input type="checkbox" id="tueTime30" name="tueTime30" value="tueTime30"/>
+    <label for="tueTime30"> 10:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="tueTime1" name="tueTime1" value="tueTime62"/>
-    <label for="tueTime1"> 11:00 PM</label>
+        <input type="checkbox" id="tueTime31" name="tueTime31" value="tueTime31"/>
+    <label for="tueTime31"> 11:00 PM</label>
     </div>
     
     
