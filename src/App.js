@@ -1,6 +1,11 @@
 import './App.css';
 import { useEffect, useState } from 'react';
 import CheckBoxes from './CheckBoxes';
+import ChechBoxMon from './ChechBoxMon';
+import ChechBoxTue from './CheckBoxTue';
+import ChechBoxWed from './ChechBoxWed';
+import ChechBoxThu from './ChechBoxThu';
+import ChechBoxFri from './ChechBoxFri';
 
 function App() {
   const date = new Date()
@@ -315,7 +320,7 @@ function App() {
               ?
               <p>Past</p>
               :
-              <CheckBoxes/>
+              <ChechBoxMon/>
           }
           </div>
       </div>
@@ -334,7 +339,7 @@ function App() {
               ?
               <p>Past</p>
               :
-              <CheckBoxes/>
+              <ChechBoxTue/>
           }
           </div>
       </div>
@@ -353,7 +358,7 @@ function App() {
               ?
               <p>Past</p>
               :
-              <CheckBoxes/>
+              <ChechBoxWed/>
           }
           </div>
       </div>
@@ -372,7 +377,7 @@ function App() {
               ?
               <p>Past</p>
               :
-              <CheckBoxes/>
+              <ChechBoxThu/>
           }
           </div>
       </div>
@@ -390,7 +395,7 @@ function App() {
               ?
               <p>Past</p>
               :
-              <CheckBoxes/>
+              <ChechBoxFri/>
           }
           </div>
       </div>
