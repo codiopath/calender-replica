@@ -51,113 +51,113 @@ function ChechBoxMon() {
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time10"/>
-    <label for="time1"> 12:30 PM</label>
+        <input type="checkbox" id="time10" name="time10" value="time10"/>
+    <label for="time10"> 12:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time11"/>
-    <label for="time1"> 1:00 PM</label>
+        <input type="checkbox" id="time11" name="time11" value="time11"/>
+    <label for="time11"> 1:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time12"/>
-    <label for="time1"> 1:30 PM</label>
+        <input type="checkbox" id="time12" name="time12" value="time12"/>
+    <label for="time12"> 1:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time13"/>
-    <label for="time1"> 2:00 PM</label>
+        <input type="checkbox" id="time13" name="time13" value="time13"/>
+    <label for="time13"> 2:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time14"/>
-    <label for="time1"> 2:30 PM</label>
+        <input type="checkbox" id="time14" name="time14" value="time14"/>
+    <label for="time14"> 2:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time15"/>
-    <label for="time1"> 3:00 PM</label>
+        <input type="checkbox" id="time15" name="time15" value="time15"/>
+    <label for="time15"> 3:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time16"/>
-    <label for="time1"> 3:30 PM</label>
+        <input type="checkbox" id="time16" name="time16" value="time16"/>
+    <label for="time16"> 3:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time17"/>
-    <label for="time1"> 4:00 PM</label>
+        <input type="checkbox" id="time17" name="time17" value="time17"/>
+    <label for="time17"> 4:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time18"/>
-    <label for="time1"> 4:30 PM</label>
+        <input type="checkbox" id="time18" name="time18" value="time18"/>
+    <label for="time18"> 4:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time19"/>
-    <label for="time1"> 5:00 PM</label>
+        <input type="checkbox" id="time19" name="time19" value="time19"/>
+    <label for="time19"> 5:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time20"/>
-    <label for="time1"> 5:30 PM</label>
+        <input type="checkbox" id="time20" name="time20" value="time20"/>
+    <label for="time20"> 5:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time21"/>
-    <label for="time1"> 6:00 PM</label>
+        <input type="checkbox" id="time21" name="time21" value="time21"/>
+    <label for="time21"> 6:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time22"/>
-    <label for="time1"> 6:30 PM</label>
+        <input type="checkbox" id="time22" name="time22" value="time22"/>
+    <label for="time22"> 6:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time23"/>
-    <label for="time1"> 7:00 PM</label>
+        <input type="checkbox" id="time23" name="time23" value="time23"/>
+    <label for="time23"> 7:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time24"/>
-    <label for="time1"> 7:30 PM</label>
+        <input type="checkbox" id="time24" name="time24" value="time24"/>
+    <label for="time24"> 7:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time25"/>
-    <label for="time1"> 8:00 PM</label>
+        <input type="checkbox" id="time25" name="time25" value="time25"/>
+    <label for="time25"> 8:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time26"/>
-    <label for="time1"> 8:30 PM</label>
+        <input type="checkbox" id="time26" name="time26" value="time26"/>
+    <label for="time26"> 8:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time27"/>
-    <label for="time1"> 9:00 PM</label>
+        <input type="checkbox" id="time27" name="time27" value="time27"/>
+    <label for="time27"> 9:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time28"/>
-    <label for="time1"> 9:30 PM</label>
+        <input type="checkbox" id="time28" name="time28" value="time28"/>
+    <label for="time28"> 9:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time29"/>
-    <label for="time1"> 10:00 PM</label>
+        <input type="checkbox" id="time29" name="time29" value="time29"/>
+    <label for="time29"> 10:00 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time30"/>
-    <label for="time1"> 10:30 PM</label>
+        <input type="checkbox" id="time30" name="time30" value="time30"/>
+    <label for="time30"> 10:30 PM</label>
     </div>
     
     <div className='theCheck'>
-        <input type="checkbox" id="time1" name="time1" value="time31"/>
-    <label for="time1"> 11:00 PM</label>
+        <input type="checkbox" id="time31" name="time31" value="time31"/>
+    <label for="time31"> 11:00 PM</label>
     </div>
     
     
